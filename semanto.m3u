@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://en.m.wikipedia.org/wiki/GTV_(Bangladeshi_TV_channel)#/media/File%3AGTVBangladeshLogo.png" group-title="BANGLA",GTV
-http://172.16.29.2:8080/hls/gtv.m3u8
+#EXTINF:-1 tvg-name="Gazi TV HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" tvg-id="137" group-title="",GAZI TV HD
+http://tv.mototvlive.net:8880/salman/salman/15876
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-id="33" group-title="",T SPORTS HD
+http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8
